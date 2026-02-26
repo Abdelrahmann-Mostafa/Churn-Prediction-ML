@@ -30,4 +30,8 @@ This repository contains an **Employee Churn Prediction** project developed as p
 1. Clone the repo:  
      `git clone https://github.com/Abdelrahmann-Mostafa/Salaries-Prediction-ML.git`  
 2. Install dependencies (`requirements.txt` if added, or set up your virtual environment).  
+<<<<<<< HEAD
 3. Run notebooks or Python scripts to replicate the analysis and retrain models.
+=======
+3. Run notebooks or Python scripts to replicate the analysis and retrain models.
+>>>>>>> aa762af33f4ef7dd16ed4a8cd5b4f4d247c67f90
